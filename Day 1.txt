@@ -1,0 +1,2 @@
+Please add Day 1 Commands.
+git init
