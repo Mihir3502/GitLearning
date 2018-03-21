@@ -2,3 +2,4 @@ Please add Day 1 Commands.
 git init
 git test
 git test2
+git test 3
