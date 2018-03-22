@@ -1,6 +1,10 @@
 Please add Day 1 Commands.
 git init
-git test
-git test2
-git test 3
-git Test 4
+git congig
+git add
+git status
+git commit
+git log
+git push
+git touch .gitignore
+
