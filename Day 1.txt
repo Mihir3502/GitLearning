@@ -8,3 +8,8 @@ git log
 git push
 git touch .gitignore
 
+1. git checkout Dev
+2. git fetch
+3. git status
+4. git rebase master
+
